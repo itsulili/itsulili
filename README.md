@@ -1,6 +1,5 @@
 <div align="center">
 <img src="70DAC0EF-B3B1-4B34-B42A-6AD6D29C8523.png" width="100%" alt="Lujain Althobaiti Banner">
-# ✦ Lujain Althobaiti ✦
 
 ### Computer Science Student | Exploring AI, Software Development & Emerging Technologies
 
@@ -10,77 +9,92 @@ Building my skills through continuous learning, practical projects, and explorin
 
 ---
 
-## About Me
 
-- Computer Science student at Taif University
-- Interested in Artificial Intelligence and Data Science
-- Developing my skills in programming and data analysis
-- Interested in building practical projects and exploring new technologies
 
+<div align="center">
+
+## ✦ About Me ✦
+
+Computer Science Student at **Taif University**  
+Interested in **Artificial Intelligence, Data Science & Emerging Technologies**  
+Developing skills in **Programming, Problem Solving & Data Analysis**  
+Focused on learning through **Projects, Practice & Continuous Exploration**
+
+</div>
 ---
 
-## Skills & Technologies
+<div align="center">
+
+## ✦ Skills & Technologies ✦
 
 ### Programming Languages
-
 <img src="https://skillicons.dev/icons?i=python,cpp" />
 
 ### Web Development
-
 <img src="https://skillicons.dev/icons?i=html,css" />
 
 ### Tools
-
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 ### Data & AI
-
 `SQL` · `MATLAB` · `Data Analysis` · `Data Visualization` · `Artificial Intelligence`
+
+</div>
 
 ---
 
-## Currently Learning
+<div align="center">
+
+## ✦ Currently Learning ✦
 
 <img src="https://skillicons.dev/icons?i=java" />
 
-- Java
-- Artificial Intelligence
-- Machine Learning
-- Data Science
-- Data Analysis
-- Software Development
-- Problem Solving
+**Java** · **Artificial Intelligence** · **Machine Learning**  
+**Data Science** · **Data Analysis** · **Software Development** · **Problem Solving**
+
+</div>
 
 ---
 
-## Featured Project
+<div align="center">
+
+## ✦ Featured Project ✦
 
 ### Kanz AI Hackathon 2026
 
-Participated in the Kanz AI Training Hackathon and developed an AI-powered project as part of the hackathon experience.
+Participated in the **Kanz AI Training Hackathon** and developed an **AI-powered project** as part of the hackathon experience.
 
-[View My Project](https://try.ka.nz/ai/46)
+[✦ View My Project ✦](https://try.ka.nz/ai/46)
 
+</div>
 ---
 
-## Certifications & Training
+<div align="center">
 
-- **Fundamentals of Artificial Intelligence** — SDAIA, 2025
-- **EYOUTH Learning Plan** — IBM SkillsBuild, 2026
-- **AI Horizons Initiative** — eYouth × IBM SkillsBuild, 2026
-- **Kanz AI Training Hackathon** — Kanz AI, 2026
+## ✦ Certifications & Training ✦
 
+**Fundamentals of Artificial Intelligence** — SDAIA, 2025  
+**EYOUTH Learning Plan** — IBM SkillsBuild, 2026  
+**AI Horizons Initiative** — eYouth × IBM SkillsBuild, 2026  
+**Kanz AI Training Hackathon** — Kanz AI, 2026
+
+</div>
 ---
 
-## Workshops & Activities
+<div align="center">
 
-- **How Does AI Understand Our Language?** — Introduction to Natural Language Processing (NLP), AI Pioneers, 2026
-- **AI-Enhanced Media Production** — AI Pioneers, 2026
-- **Professional Week** — College of Computers and Information Technology, Taif University, 2026
+## ✦ Workshops & Activities ✦
 
+**How Does AI Understand Our Language?** — Introduction to Natural Language Processing (NLP), AI Pioneers, 2026  
+**AI-Enhanced Media Production** — AI Pioneers, 2026  
+**Professional Week** — College of Computers and Information Technology, Taif University, 2026
+
+</div>
 ---
 
-## University Involvement
+<div align="center">
+
+## ✦ University Involvement ✦
 
 ### IEEE — Taif University Student Branch
 
@@ -88,15 +102,17 @@ Participated in the Kanz AI Training Hackathon and developed an AI-powered proje
 
 Contributing to digital content and supporting the branch's activities and initiatives.
 
+</div>
 ---
 
-## Connect
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lujain_Althobaiti-111111?style=for-the-badge&logo=linkedin&logoColor=E78BB4)](https://www.linkedin.com/in/lujain-althobaiti-328a2440a)
+## ✦ Connect ✦
 
-[![X](https://img.shields.io/badge/X-itsulilii-111111?style=for-the-badge&logo=x&logoColor=E78BB4)](https://x.com/itsulilii)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lujain_Althobaiti-111111?style=for-the-badge&logo=linkedin&logoColor=E78BB4)](https://www.linkedin.com/in/lujain-althobaiti-328a2440a) [![X](https://img.shields.io/badge/X-itsulilii-111111?style=for-the-badge&logo=x&logoColor=E78BB4)](https://x.com/itsulilii) [![Email](https://img.shields.io/badge/Email-Contact_Me-111111?style=for-the-badge&logo=gmail&logoColor=E78BB4)](mailto:lugainalthobaiti@gmail.com)
 
-[![Email](https://img.shields.io/badge/Email-Contact_Me-111111?style=for-the-badge&logo=gmail&logoColor=E78BB4)](mailto:lujainalthobaiti@gmail.com)
+</div>
+
 
 ---
 
