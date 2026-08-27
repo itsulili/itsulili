@@ -1,5 +1,5 @@
 <div align="center">
-
+<img src="70DAC0EF-B3B1-4B34-B42A-6AD6D29C8523.png" width="100%" alt="Lujain Althobaiti Banner">
 # ✦ Lujain Althobaiti ✦
 
 ### Computer Science Student | Exploring AI, Software Development & Emerging Technologies
